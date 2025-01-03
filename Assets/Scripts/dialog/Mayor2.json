@@ -1,0 +1,15 @@
+{
+	"Collection":[{
+		"Speaker":"Mayor",
+		"Dialog":"Akhirnya kamu datang juga."
+	},{
+		"Speaker":"Mayor",
+		"Dialog":"Apakah kamu sudah membawa semua bahannya?"
+	},{
+		"Speaker":"Player",
+		"Dialog":"Aku belum membawanya tetapi orang orang di desa memberitahu ku lokasi dimana aku mendapatkanya."
+	},{
+		"Speaker":"Mayor",
+		"Dialog":"Baiklah kalau begitu bawakan aku 5 potong kayu dan 5 batu, dan untuk Polish stone kamu bisa mengambilnya di belakang ku ini."
+	}]
+}

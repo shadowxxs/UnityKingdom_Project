@@ -1,0 +1,9 @@
+{
+	"Collection":[{
+		"Speaker":"Player",
+		"Dialog":"Permisi!!"
+	},{
+		"Speaker":"Player",
+		"Dialog":"Sepertinya tidak ada orang dirumah"
+	}]
+}

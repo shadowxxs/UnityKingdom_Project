@@ -1,0 +1,9 @@
+{
+	"Collection":[{
+		"Speaker":"Player",
+		"Dialog":"(berusaha membuka pintu.)"
+	},{
+		"Speaker":"Player",
+		"Dialog":"Sepertinya terkunci."
+	}]
+}

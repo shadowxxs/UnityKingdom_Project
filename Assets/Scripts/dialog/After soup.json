@@ -1,0 +1,18 @@
+{
+	"Collection":[{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Terimakasih telah membantu ku."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Lalu bagaimana dengan perbaikan towernya?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Mungkin Nelson akan memberimu petunjuk, dia berada di tempat pemotongan kayu tepat dibawah fountain."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Bagaimana dengan Polish stone?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Aku akan memberikannya setelah aku menyelesaikannya masalahku dengan Irish"
+	}]
+}

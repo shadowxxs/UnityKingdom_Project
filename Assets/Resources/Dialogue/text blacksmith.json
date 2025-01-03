@@ -1,0 +1,12 @@
+{
+	"Collection":[{
+		"Speaker":"Blacksmith",
+		"Dialog":"Senang bertemu denganmu"
+	},{
+		"Speaker":"Blacksmith",
+		"Dialog":"Maaf jika merepotkamu, tetapi aku membutuhkan bahan itu"
+	},{
+		"Speaker":"Blacksmith",
+		"Dialog":"Semoga berhasil, aku menyemangatimu dari sini"
+	}]
+}

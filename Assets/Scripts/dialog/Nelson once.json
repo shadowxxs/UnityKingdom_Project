@@ -1,0 +1,21 @@
+{
+	"Collection":[{
+		"Speaker":"Player",
+		"Dialog":"Permisi."
+	},{
+		"Speaker":"Nelson",
+		"Dialog":"Ada yang bisa saya bantu."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Aku mau mencari kayu dan batu untuk perbaikan tower."
+	},{
+		"Speaker":"Nelson",
+		"Dialog":"Aku hanya memiliki kayu untuk membuat api unggun, aku sudah kehabisan kayu."
+	},{
+		"Speaker":"Nelson",
+		"Dialog":"Tetapi kamu harus meminta izin kepada mayor terlebih dahulu untuk menuju ke watch tower."
+	},{
+		"Speaker":"Player",
+		"Dialog":"(dia mungkin satu satunya orang di desa ini yang ramah kepadaku)"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	"Collection":[{
+		"Speaker":"Player",
+		"Dialog":"Permisi!!"
+	},{
+		"Speaker":"Roxanne",
+		"Dialog":"Hei!! Pelankan suaramu! Kamu membuatku kaget."
+	},{
+		"Speaker":"Player",
+		"Dialog":"M..Maaf, aku hanya ingin bertanya.. apakah kamu tahu dimana rumah mayor?"
+	},{
+		"Speaker":"Roxanne",
+		"Dialog":"Hmmmmm, aku tidak tau, mungkin kamu bisa menanyakannya kepada irish, dia sering bepergian dengan Istri Mayor."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Dimana aku bisa bertemu dengannya?"
+	},{
+		"Speaker":"Roxanne",
+		"Dialog":"Kamu hanya perlu menuju ke fountain rumah dia berada di dekat fountain itu."
+	}]
+}

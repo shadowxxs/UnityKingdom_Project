@@ -1,0 +1,48 @@
+{
+	"Collection":[{
+		"Speaker":"Player",
+		"Dialog":"Permisi, apa ini benar rumah mayor?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Iya benar disini rumahnya."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Aku ingin memperbaiki tower, mayor menyuruhku untuk mencarimu."
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Kamu hanya perlu kayu, batu, dan polish stone untuk memperbaiki tower."
+	},{
+		"Speaker":"Player",
+		"Dialog":"Dimana aku bisa mendapatkan semua itu?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Kamu bisa mencari dise..... Oh tidak! Sudah jam segini"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Aku lupa ada janji dengan Irish."
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Bisakah kamu membantuku membuat sup jagung ?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Irish pasti sangat marah kepadaku jika tidak membawakan sup jagung miliknya"
+	},{
+		"Speaker":"Player",
+		"Dialog":"T.. tapi bagaimana dengan towernya?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Nanti aku akan membantu mu mencarikan semua itu tapi sekarang bantu aku dulu untuk membuat sup jagung ini!"
+	},{
+		"Speaker":"Player",
+		"Dialog":"Dimana aku bisa mendapatkan bahannya?"
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Kamu bisa menemukan jagung di area farm yang tepat berada dibawah rumah ini."
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Dan jangan lupa untuk Spice nya, kamu bisa meminta kepada Diana."
+	},{
+		"Speaker":"Istri Mayor",
+		"Dialog":"Masukkan semua bahannya kedalam Hot pot yang ada didepanmu."
+	}]
+}

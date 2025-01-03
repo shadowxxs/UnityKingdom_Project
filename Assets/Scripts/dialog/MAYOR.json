@@ -1,0 +1,15 @@
+{
+	"Collection":[{
+		"Speaker":"Mayor",
+		"Dialog":"Jika kamu sudah kembali dari tower cepatlah kamu menuju ke rumahku"
+	},{
+		"Speaker":"Mayor",
+		"Dialog":"Istriku akan membantumu mencari bahan bahan material perbaikan tower."
+	},{
+		"Speaker":"Mayor",
+		"Dialog":"Temui aku di tower ketika kamu sudah membawa semua materialnya."
+	},{
+		"Speaker":"Player",
+		"Dialog":"(Aku kira dia berada disini)"
+	}]
+}

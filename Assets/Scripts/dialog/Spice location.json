@@ -1,0 +1,15 @@
+{
+	"Collection":[{
+		"Speaker":"Diana",
+		"Dialog":"Tidak kah kamu melihat kalau aku sedang sibuk?"
+	},{
+		"Speaker":"Player",
+		"Dialog":"Aku hanya ingin mencari Spice."
+	},{
+		"Speaker":"Diana",
+		"Dialog":"Apakah kamu buta?! Spice berada tepat disampingku cepat ambil dan jangan ganggu aku lagi!"
+	},{
+		"Speaker":"Player",
+		"Dialog":"(Kenapa di desa ini orangnya pada hobi marah ya)"
+	}]
+}
